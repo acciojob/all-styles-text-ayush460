@@ -1,25 +1,12 @@
-
-/* Your CSS Code here. */
 .container {
   width: 200px;
   background-color: purple;
-  padding: 10px;
-	 border-left-color:green;
-  overflow: hidden;
-}
-
-.left {
   border-left: 5px solid green;
-  height: 100%;
-  float: left;
-}
-
-.right {
-  margin-left: 5px;
-}
-
-h1 {
+  padding: 10px;
   font-size: 20px;
-  color: white;
-  margin: 0;
+	
+}
+
+h3 {
+  color:white;
 }

@@ -1,14 +1,20 @@
 main {
-  width: 200px;
+
+	
+  width: 215px;
+	
+	
 	
   background-color: purple;
   border-left: 5px solid green;
-  padding: 10px;
+  padding: 0.02px;
  
 	
 }
 
 header {
   color:white;
-	font-size:20px;
+	font-size:1rem;
+	text-decoration:underline;
+	
 }
